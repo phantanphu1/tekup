@@ -1,0 +1,12 @@
+.Appetize-Container {
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    width: 360px;
+
+    .text {
+        text-align: center;
+        margin-top: -30px;
+
+    }
+}
